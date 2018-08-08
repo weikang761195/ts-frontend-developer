@@ -2,7 +2,7 @@
 Your solution shall use only [Vanilla JavaScript](http://vanilla-js.com).  
 
 Task: Implement a datasource connector to abstract away data retrieval and manipulation from the `ViewControllers`.  
-How your implementation will be used:
+You are required to implement a Datasource utility class. How your implementation will be used:
 ```javascript
 
 let ds = new Datasource();
