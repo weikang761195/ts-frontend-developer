@@ -4,7 +4,7 @@ Note that if you fork this repository, your responses may be publicly available.
 Please submit your application along with the solutions attached or linked. 
 
 ## Problems ##
-You are required to provide solutions for 2 problems specified below:
+You are required to provide solutions for 3 problems specified below:
 1. [Problem 1: Three ways to sum to _n_](./src/three_ways_to_sum_to_n/problem.md)
 2. [Problem 2: Fancy Form](./src/fancy_form/problem.md)
 3. [Problem 3: Datasource Connector Tool](./src/datasource_connector_tool/problem.md)
