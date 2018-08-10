@@ -1,4 +1,6 @@
-## Problem 2: Datasource Connector Tool ##
+## Problem: Datasource Connector Tool ##
+Duration: You should not spend more than 4 hours on this problem.  
+
 Your solution shall use only [Vanilla JavaScript](http://vanilla-js.com).  
 
 Task: Implement a datasource connector to abstract away data retrieval and manipulation from the `ViewControllers`.  
