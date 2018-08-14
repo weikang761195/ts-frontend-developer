@@ -1,7 +1,9 @@
 # LinqCash Code Challenge #1 #
 
 Note that if you fork this repository, your responses may be publicly available.  
-Please submit your application along with the solutions attached or linked. 
+Please submit your application along with the solutions attached or linked.   
+
+It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
 
 ## Problems ##
 You are required to provide solutions for 3 problems specified below:
