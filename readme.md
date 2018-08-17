@@ -1,6 +1,6 @@
 # LinqCash Code Challenge #1 #
 
-Note that if you fork this repository, your responses may be publicly available.  
+Note that if you fork this repository, your responses may be publicly available [here](https://github.com/LinqCash/ts-frontend-developer/network/members).  
 Please submit your application along with the solutions attached or linked.   
 
 It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
